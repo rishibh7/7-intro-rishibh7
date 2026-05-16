@@ -1,4 +1,4 @@
-# Hi, I’m Rishi 👋 
+# Hi, I’m Rishi 👋🏼 
 
 I tinker with Applied AI & ML applications, trying to build things that are useful. 
 With 15+ years of experience in AI, Machine Learning & data analytics, I enjoy turning data into useful products.
