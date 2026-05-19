@@ -16,6 +16,8 @@ Open to collaborating on meaningful AI projects. 📫rishi.18b@gmail.com
 - ⚡ **[FFT-hands-on](https://fft-hands-on.vercel.app/)** - Fast Fourier Transform Real life Scenarios
   
 - ⭐ **[Youtube Vibe Check](https://chromewebstore.google.com/detail/youtube-vibe-check/makkbgfadcifbhphpfhmkbkbdbhkdokf)** - Check the rating of youtube video before investing your time in it (IMDb for Youtube videos)
+  
+- Ⓜ️ **[Minglo](http://13.204.224.12/)** - Meet anyone online
 
 - 💡 **Meeting Insights** - Get transcripts & insights for any meeting video
 
