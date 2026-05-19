@@ -19,7 +19,7 @@ Open to collaborating on meaningful AI projects. 📫rishi.18b@gmail.com
 
 - Ⓜ️ **[Minglo](http://13.204.224.12/)** - Meet anyone online
 
-- 💡 **Meeting Insights** - Get transcripts & insights for any meeting video
+- 💡 **[Meeting Insights](http://13.204.224.12:8000/)** - Get transcripts & insights for any meeting video like granicus - lawa, metro etc
 
 
 <!---
