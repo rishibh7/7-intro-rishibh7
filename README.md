@@ -8,13 +8,13 @@ Open to collaborating on meaningful AI projects. 📫rishi.18b@gmail.com
 
 
 - 🌐 **[PingleAI](http://pingle-ai.ap-south-1.elasticbeanstalk.com/)** - Real time web search for any query (more like perplexity pro)
+
+- ⚡ **[FFT-hands-on](https://fft-hands-on.vercel.app/)** - Fast Fourier Transform Real life Scenarios  
   
 - 🔍︎ **[ContextSearch](https://chromewebstore.google.com/detail/nkophhooeaibajkbmabbpfbkmchobdka?utm_source=item-share-cb)** - Search for context / semantic similarity on the webpage
   
 - 🎬 **[IMDb-Scan](https://imdb-scan.vercel.app/)** - Scan for IMDb details of any movie / series using your phone camera
-    
-- ⚡ **[FFT-hands-on](https://fft-hands-on.vercel.app/)** - Fast Fourier Transform Real life Scenarios  
-  
+      
 - ⭐ **[Youtube Vibe Check](https://chromewebstore.google.com/detail/youtube-vibe-check/makkbgfadcifbhphpfhmkbkbdbhkdokf)** - Check the rating of youtube video before investing your time in it (IMDb for Youtube videos)
 
 - Ⓜ️ **[Minglo](http://13.204.224.12/)** - Meet anyone online
