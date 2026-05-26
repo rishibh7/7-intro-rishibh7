@@ -1,7 +1,7 @@
 # Hi, I’m Rishi 👋🏼 
 
 I tinker with Applied AI & ML applications, trying to build things that are useful. 
-With 15+ years of experience in AI, Machine Learning & data analytics, I enjoy turning data into useful products.
+With 15+ years of experience in AI, Machine Learning & Data Science, I enjoy turning data into useful products.
 Open to collaborating on meaningful AI projects. 📫rishi.18b@gmail.com
 
 ## Projects 
