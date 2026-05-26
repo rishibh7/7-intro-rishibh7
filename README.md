@@ -4,7 +4,7 @@ I tinker with Applied AI & ML applications, trying to build things that are usef
 With 15+ years of experience in AI, Machine Learning & Data Science, I enjoy turning data into useful products.
 Open to collaborating on meaningful AI projects. 📫rishi.18b@gmail.com
 
-## Projects 
+## Personal Projects 
 
 
 - 🌐 **[PingleAI](http://pingle-ai.ap-south-1.elasticbeanstalk.com/)** - Real time web search for any query (more like perplexity pro)
