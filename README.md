@@ -11,11 +11,11 @@ Open to collaborating on meaningful AI projects. 📫 rishi.18b@gmail.com
 
 - ⚡ **[fft-hands-on](https://fft-hands-on.vercel.app/)** - Fast Fourier Transform Real life Scenarios  
   
-- 🔍︎ **[context-search](https://chromewebstore.google.com/detail/nkophhooeaibajkbmabbpfbkmchobdka?utm_source=item-share-cb)** - Search for context / semantic similarity on the webpage
+- 🔍︎ **[context search](https://chromewebstore.google.com/detail/nkophhooeaibajkbmabbpfbkmchobdka?utm_source=item-share-cb)** - Search for context / semantic similarity on the webpage
   
 - 🎬 **[imdb-scan](https://imdb-scan.vercel.app/)** - Scan for IMDb details of any movie / series using your phone camera
       
-- ⭐ **[youtube-vibe-check](https://chromewebstore.google.com/detail/youtube-vibe-check/makkbgfadcifbhphpfhmkbkbdbhkdokf)** - Check the rating of youtube video before investing your time in it (IMDb for Youtube videos)
+- ⭐ **[youtube vibe check](https://chromewebstore.google.com/detail/youtube-vibe-check/makkbgfadcifbhphpfhmkbkbdbhkdokf)** - Check the rating of youtube video before investing your time in it (IMDb for Youtube videos)
 
 - Ⓜ️ **[minglo](http://13.204.224.12/)** - Meet anyone online
 
