@@ -7,19 +7,19 @@ Open to collaborating on meaningful AI projects. 📫 rishi.18b@gmail.com
 ## Personal Projects 
 
 
-- 🌐 **[PingleAI](http://pingle-ai.ap-south-1.elasticbeanstalk.com/)** - Real time web search for any query (more like perplexity pro)
+- 🌐 **[pingle-ai](http://pingle-ai.ap-south-1.elasticbeanstalk.com/)** - Real time web search for any query (more like perplexity pro)
 
-- ⚡ **[FFT-hands-on](https://fft-hands-on.vercel.app/)** - Fast Fourier Transform Real life Scenarios  
+- ⚡ **[fft-hands-on](https://fft-hands-on.vercel.app/)** - Fast Fourier Transform Real life Scenarios  
   
-- 🔍︎ **[ContextSearch](https://chromewebstore.google.com/detail/nkophhooeaibajkbmabbpfbkmchobdka?utm_source=item-share-cb)** - Search for context / semantic similarity on the webpage
+- 🔍︎ **[context-search](https://chromewebstore.google.com/detail/nkophhooeaibajkbmabbpfbkmchobdka?utm_source=item-share-cb)** - Search for context / semantic similarity on the webpage
   
-- 🎬 **[IMDb-Scan](https://imdb-scan.vercel.app/)** - Scan for IMDb details of any movie / series using your phone camera
+- 🎬 **[imdb-scan](https://imdb-scan.vercel.app/)** - Scan for IMDb details of any movie / series using your phone camera
       
-- ⭐ **[Youtube Vibe Check](https://chromewebstore.google.com/detail/youtube-vibe-check/makkbgfadcifbhphpfhmkbkbdbhkdokf)** - Check the rating of youtube video before investing your time in it (IMDb for Youtube videos)
+- ⭐ **[youtube-vibe-check](https://chromewebstore.google.com/detail/youtube-vibe-check/makkbgfadcifbhphpfhmkbkbdbhkdokf)** - Check the rating of youtube video before investing your time in it (IMDb for Youtube videos)
 
-- Ⓜ️ **[Minglo](http://13.204.224.12/)** - Meet anyone online
+- Ⓜ️ **[minglo](http://13.204.224.12/)** - Meet anyone online
 
-- 💡 **[Meeting Insights](http://13.204.224.12:8000/)** - Get transcripts & insights for any meeting video like granicus - lawa, metro etc
+- 💡 **[meeting insights](http://13.204.224.12:8000/)** - Get transcripts & insights for any meeting video like granicus - lawa, metro etc
 
 
 <!---
