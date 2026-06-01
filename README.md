@@ -8,6 +8,7 @@ Open to collaborating on meaningful AI projects. 📫 rishi.18b@gmail.com
 
 
 - 🌐 **[pingle-ai](http://pingle-ai.ap-south-1.elasticbeanstalk.com/)** - Real time web search for any query (more like perplexity pro)
+- 📞 [call lens](http://13.204.224.12:8001/) - Call Quality Audit
 
 - ⚡ **[fft-hands-on](https://fft-hands-on.vercel.app/)** - Fast Fourier Transform Real life Scenarios  
   
